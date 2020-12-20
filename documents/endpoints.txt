@@ -1,0 +1,8 @@
+// GET /ships (*) (List<Ship>)
+// POST /ships (Ship) (id)
+// DELETE /ships/{id} (id) ()
+// GET /ships/{id}/status (id) (String)
+// PUT /ships/{id}/status (id, status, port_id) (String)
+
+// GET /ports () (List<Ship>)
+// GET /ports/{id}/capacity (id) (?)
